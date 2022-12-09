@@ -52,6 +52,10 @@ def area_threshold(IDS,cnt_label,pix_thr): #threshold labeled blobs by pixel are
 #-----------------------------------------------------------
 
 print("WELCOME TO PASTA IMAGE ANALYZER!")
+
+#assert check if a file was passed
+assert len(sys.argv) > 1 ,"Please append an image path as an argument to this script"
+
 path = sys.argv[1:][0] #read path passed as argument
 image = cv2.cvtColor(cv2.imread(path), cv2.COLOR_BGR2GRAY) #read image and convert to greyscale
 #print("Displaying provided image...")
