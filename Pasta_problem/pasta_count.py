@@ -1,7 +1,6 @@
 import cv2 #to do image manipulation
 import numpy as np #to do some calculations
 import math #to do some calculations
-import matplotlib.pyplot as plt #to print some images as output
 import sys #to read arguments passed to the script
 
 #-----------------------------------------------------------
@@ -111,3 +110,8 @@ for key in images:
     IDS, cnt_label = area_threshold(IDS,cnt_label,THR_pix)
     print(f"detected {cnt_label} {key} objects in image ")
 
+print("")
+print("finished.")
+print("Bye! :)")
+
+#A way we could have made this program faster is by downsampling images.
