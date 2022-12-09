@@ -9,12 +9,6 @@ import sys #to read arguments passed to the script
 #-----------------------------------------------------------
 #-----------------------------------------------------------
 
-def print_image(image): #define a function to print images in greyscale without axis
-    plt.imshow(image,cmap="gray")
-    ax = plt.gca()
-    ax.get_xaxis().set_visible(False)
-    ax.get_yaxis().set_visible(False)
-    plt.show()
 
 def blob_detection(img,se): # our connected component analys algorithm implementation
    cnt_label = 1 #label of blob detected
