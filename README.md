@@ -8,6 +8,8 @@ In this problem, we were given an image in which different types of pasta appear
 goal of this first challenge was to count the number of elements of each type and provide
 separate images with only one kind of pasta.
 
+The following images correspond to the three resulting images obtained from isolating each type of pasta from the original image:
+
 ![Pata_problem/Pasta_images/isolated/product.jpg](https://github.com/juliagartor/Project-Computer-Vision/blob/main/Pasta_problem/Pasta_images/isolated/grains.png)
 ![Pata_problem/Pasta_images/isolated/product.jpg](https://github.com/juliagartor/Project-Computer-Vision/blob/main/Pasta_problem/Pasta_images/isolated/spaguetti.png)
 ![Pata_problem/Pasta_images/isolated/product.jpg](https://github.com/juliagartor/Project-Computer-Vision/blob/main/Pasta_problem/Pasta_images/isolated/pasta.png)
