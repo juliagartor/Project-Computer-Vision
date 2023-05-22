@@ -9,10 +9,12 @@ goal of this first challenge was to count the number of elements of each type an
 separate images with only one kind of pasta.
 
 ![Pata_problem/Pasta_images/isolated/product.jpg](https://github.com/juliagartor/Project-Computer-Vision/blob/main/Pasta_problem/Pasta_images/isolated/grains.png)
+![Pata_problem/Pasta_images/isolated/product.jpg](https://github.com/juliagartor/Project-Computer-Vision/blob/main/Pasta_problem/Pasta_images/isolated/spaguetti.png)
+![Pata_problem/Pasta_images/isolated/product.jpg](https://github.com/juliagartor/Project-Computer-Vision/blob/main/Pasta_problem/Pasta_images/isolated/pasta.png)
 
 ## Product Image
 
 In this problem, we were given the following product image. The main goal of this first
 challenge was to obtain the reference number that appears on the image.
 
-![Image Description](image_url)
+![Image Description](https://raw.githubusercontent.com/juliagartor/Project-Computer-Vision/main/ref_num_problem/original.bmp?token=GHSAT0AAAAAACBVIKQ4GCQT55QZCU6JXNQIZDLTIVQ)
