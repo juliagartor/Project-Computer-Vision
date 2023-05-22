@@ -8,7 +8,7 @@ In this problem, we were given an image in which different types of pasta appear
 goal of this first challenge was to count the number of elements of each type and provide
 separate images with only one kind of pasta.
 
-![Image Description](image_url)
+![Image Description](Pata problem/product.jpg)
 
 ## Product Image
 
